@@ -31,3 +31,15 @@ button:hover {
 h1{
     font-size: 60px;
 }
+
+#inputBox {
+    width: 300px; 
+    height: 40px; 
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.caixa-de-escrever {
+    margin-bottom: 125px;
+}
