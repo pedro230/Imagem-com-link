@@ -47,6 +47,10 @@ Editar
 
 │── /src/imagens/     # Pasta de imagens (favicon, ícone, etc.)
 
+📸 Prévia
+
+[<img src="./src/Gifs/Gif Google site .gif" alt="Gif do projeto">]
+
 ⚡ Como Executar
 
 1️⃣ Baixe ou clone o repositório:
