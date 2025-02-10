@@ -1,0 +1,14 @@
+{
+    "name": "meu-app",
+    "version": "1.0.0",
+    "description": "Aplicação desktop baseada no projeto web",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "package": "electron-packager . MeuApp --platform=win32 --arch=x64 --out=dist --overwrite"
+    },
+    "devDependencies": {
+        "electron": "^34.1.1",
+        "electron-packager": "^17.1.2"
+    }
+}
